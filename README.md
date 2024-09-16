@@ -3,9 +3,8 @@
 RoomLyf is a complete, responsive interior design website that showcases modern design, smooth animations, and a user-friendly experience across all devices. Built using React.js, Tailwind CSS, and Framer Motion, it brings stunning design concepts to life.
 
 ## Screenshots
-
-![RoomLyf Screenshot 1](https://path-to-screenshot-1.com)
-![RoomLyf Screenshot 2](https://path-to-screenshot-2.com)
+![Screenshot 2024-09-16 162004](https://github.com/user-attachments/assets/dd53eb33-82ea-424a-86d2-406bf18305fd)
+![Screenshot 2024-09-16 162150](https://github.com/user-attachments/assets/a5c73d1a-2407-4c36-8b34-95d0b89fb73e)
 
 ## Features ✨
 
