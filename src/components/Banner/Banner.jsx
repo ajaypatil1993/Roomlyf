@@ -1,5 +1,5 @@
 import React from "react";
-import BannerPng from "../../assets/Banner.png";
+import BannerPng from "../../assets/banner.png";
 import { motion } from "framer-motion";
 import { SlideUp } from "../../animation/animation";
 
